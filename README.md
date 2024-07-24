@@ -1,2 +1,2 @@
 # bitcoin-miner
-the demonstration of a simple bitcoin miner
+a simple bitcoin miner
